@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oratio habita in scholâ Christi orphano-trophii coram illustrissimo civitatis prætore, dignissimis præsidibus, fidissimis thesaurariis; et cæteris hospitiorum Londinensibus patronis benignissimis: Septembris xxjmo, 1675.</title>
+            <author>Moore, John, 1729-1802.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49916</idno>
+            <idno type="STC">Wing L834B</idno>
+            <idno type="STC">ESTC R221706</idno>
+            <idno type="EEBO-CITATION">99832979</idno>
+            <idno type="PROQUEST">99832979</idno>
+            <idno type="VID">37454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2189:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oratio habita in scholâ Christi orphano-trophii coram illustrissimo civitatis prætore, dignissimis præsidibus, fidissimis thesaurariis; et cæteris hospitiorum Londinensibus patronis benignissimis: Septembris xxjmo, 1675.</title>
+                  <author>Moore, John, 1729-1802.</author>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>typis Gulielmi Godbid,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Simon Ledeatt.</note>
+                  <note>Copy tightly bound; with print show-through.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orphans --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37454:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>ORATIO HABITA IN <hi>Scholâ Chriſti Orphano-Trophii,</hi> CORAM ILLUSTRISSIMO CIVITATIS PRAETORE, <hi>DIGNISSIMIS</hi> PRAESIDIBUS, FIDISSIMIS <hi>THESA<g ref="char:V">Ʋ</g>RARIIS; Et Caeteris</hi> HOSPITIORUM LONDINENSIBUS Patronis Benigniſſimis: <hi>SEPTEMBRIS xxj<hi rend="sup">mo</hi>,</hi> 1675.</p>
+            <p>
+               <hi>Londini,</hi> Typis <hi>Gulielmi Godbid,</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37454:2"/>
+            <!-- PDF PAGE 73 -->
+            <pb n="1" facs="tcp:37454:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>ORATIO HABITA IN <hi>Scholâ Chriſti Orphano-Trophii.</hi>
+            </head>
+            <opener>
+               <salute>Praeſtantiſſime Praetor, Senatores Selectiſſimi, Cives Graviſſimi,</salute>
+            </opener>
+            <p>INter veteres olìm Romanos in con<g ref="char:EOLhyphen"/>ſuetudinem abiit, cum apud populum ſacris &amp; feſtis verba facturi eſſent, Auditorum animos orationis ſuavi<g ref="char:EOLhyphen"/>tate delenire, &amp; hoſtium ſpolia, veluti auctae gloriae &amp; factorum ornamenta oſten<g ref="char:EOLhyphen"/>tare, nè aculeis hiſce ſtimulati, tàm in<g ref="char:EOLhyphen"/>ſignes triumphos defaedarent.</p>
+            <p>Et quid non hodiè Alumni veſtri, qui ad jucundos hos Septembris dies a<g ref="char:EOLhyphen"/>maenam
+<pb n="2" facs="tcp:37454:3"/>
+               <!-- PDF PAGE 74 -->ſibi de Sole veſtro affulſiſſe lucem affirmant, exultarent? Quid nî, con<g ref="char:EOLhyphen"/>ſpectis Patronis, intrà hos parietes gratae praeſentiae veſtrae plauſus ab univerſis datus eſſet? Eſt, eſt, inquam, adeò ſuavis conventus veſter, ut neminem noſtrûm hodiè eſſe videatis, cujus pectus gaudiis plenum in vultum non exundat, &amp; lingua Munificentiae veſtrae Amplitudinem non praedicat. Ecce eos, quibus irradiavit charitatis veſtrae Sol Clariſſimus, Grati<g ref="char:EOLhyphen"/>tudinis noſtrae victimas offerentes, &amp; flexis genibus pedes veſtros deoſculantes.</p>
+            <p>Deviciſtis nos obſequio veſtro, &amp; ità affeciſtis, ut animi noſtri in exultationem excitentur, &amp; parietes ipſi aequis laudibus perſonent. Summa profectò hodiè emi<g ref="char:EOLhyphen"/>cuit pietas &amp; clementia, quam, etſi non faenerato, animo tamen grato rependere<g ref="char:EOLhyphen"/>mus. Hic dies Orphanorum laudibus tri<g ref="char:EOLhyphen"/>umpharet, &amp; Civitatis noſtrae Claritudo apud Poſteros grandeſceret. Ità quidèm hoc tempus quàm maximè poſtulat &amp; locus imperat. Sed quis hanc provinciam ſuſ<g ref="char:EOLhyphen"/>cepturus
+<pb n="3" facs="tcp:37454:3"/>
+               <!-- PDF PAGE 74 -->eſt? Ingenue prof<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctò confiten<g ref="char:EOLhyphen"/>dum eſt (Patroni Spectatiſſimi) hoc nimìs arduum &amp; humeris impar videri; Potiùs tamen quàm <hi>Londini</hi> Civitatis noſtrae florentiſſimae, cujus liberalitatem nos mi<g ref="char:EOLhyphen"/>ſelli ſatis experti ſumus, fama deſperiret, Ego, à quo nihil, niſi quod ex quotidiani Sermonis faece congeſtum, expectandum eſt, hujus hodiè aggrediar laudationem &amp; pertinacitèr evincam.</p>
+            <p>Omnes ubique <hi>Londini</hi> gloriam &amp; de<g ref="char:EOLhyphen"/>cus Senatorum venerantur: Hic Gazo<g ref="char:EOLhyphen"/>phylacia civium opulenta mirantur, illìc magnifica domicilia collaudant; Hic Byr<g ref="char:EOLhyphen"/>ſam Mercatorum multitudine ſatis reple<g ref="char:EOLhyphen"/>tam indigitant; illìc Subſelliorum &amp; Sa<g ref="char:EOLhyphen"/>crarum Aedium, quae nupèr in fumum &amp; cineres redacta fuerant, amplitudinem comprobant.</p>
+            <p>Nec Nominis veſtri fama offuſcatur te<g ref="char:EOLhyphen"/>nebris. Eſtis profectò Cives urbis non in<g ref="char:EOLhyphen"/>fimi ordinis, ſed celeberrimi, quae inter caeteras hujus gentis ita caput extulit, ut totius Regni Metropolis &amp; Emporeum
+<pb n="4" facs="tcp:37454:4"/>
+               <!-- PDF PAGE 75 -->dignè habeatur. Vos <hi>Londinum</hi> in am<g ref="char:EOLhyphen"/>plexu fovet, &amp; ſecuris ſedibus poſuit. Hic faſcibus &amp; praefecturis decorati; hìc ho<g ref="char:EOLhyphen"/>noris titulis inſigniti, opibus pervigetis, ſummo imperio &amp; autoritate pollentes. At<g ref="char:EOLhyphen"/>que hìnc tanta civitati claritudo, tanta &amp; vobis charitatis celebritate conſpicuis, acceſſura fama, quam caeterae colunt &amp; ubique praedicant.</p>
+            <p>Sed quò tandèm in immenſum civitatis noſtrae laudum Oceanum praeceps feror? Rapuit quidèm (Patroni ſpectatiſſimi) &amp; abduxit orationis curſum <hi>Londini</hi> magni<g ref="char:EOLhyphen"/>tudo. Geſtiret animus mihi fuſiùs paulò proſequi; ſed peritioris penecilli negotium hoc petit. Liceat tamen pauca, quibus Munificentiae &amp; Charitatis hujus indicia lucidiùs paulò eniteſcant, recenſere.</p>
+            <p>Satis ni fallor, conſtant praemia peram<g ref="char:EOLhyphen"/>pla, quibus ſpectantium oculos in ſe trahit. Panduntur orphanorum catervis, ut opu<g ref="char:EOLhyphen"/>lentiam agnoſcant, portae Regales. Al<g ref="char:EOLhyphen"/>tiora ſolet moliri animus, &amp; ſiquod illu<g ref="char:EOLhyphen"/>ſtrius poſſit inveniri, liberè meditatur.
+<pb n="5" facs="tcp:37454:4"/>
+               <!-- PDF PAGE 75 -->Demiratur profectò Alma Mater <hi>Edvardi</hi> Sexti pietatem inſigniſſimam, qui Pri<g ref="char:EOLhyphen"/>mores olìm ad conſilium advocavit, ut, quò ipſe cum illis bonorum eſſet operum fe<g ref="char:EOLhyphen"/>racior, deſiniretur.</p>
+            <p>Ille, ut olìm viſum fuit, prima jecit Salutis noſtrae fundamenta, &amp; quibus egen<g ref="char:EOLhyphen"/>tibus ſuccurrendum eſſet, rectè conſtituit. Et vos etiam (Digniſſimi) manus veſtras admoviſtis, &amp; ab incendiorum injuriis ità veſtris nupèr vindicâſtis ſumptibus, ut nec in hâc nec in aliis regionibus illu<g ref="char:EOLhyphen"/>strius inveniri poſſit piae charitatis Monu<g ref="char:EOLhyphen"/>mentum. Ità ſigna &amp; bonitatis vexilla <hi>Londinum</hi> refert, ità theſauros expli<g ref="char:EOLhyphen"/>cuit, ut jàm per totum terrarum orbem fama vigeat, &amp; literis &amp; linguis cele<g ref="char:EOLhyphen"/>bretur.</p>
+            <p>Faceſſant tandèm miſerorum planctus, &amp; afflictorum variis doloribus capitum ſin<g ref="char:EOLhyphen"/>gultus, ne aures <hi>Londinenſium</hi> diutiùs perſtrepant, nec languorem animis noſtris incutiant. Ecce quàm benè à Deo ipſo his conſultum fuit, ut nihil, quo corpora
+<pb n="6" facs="tcp:37454:5"/>
+               <!-- PDF PAGE 76 -->ſuſtententur, aut morborum cruciatus ex<g ref="char:EOLhyphen"/>pellatur, omninò deſit. Patent &amp; Divi <hi>Bartholomaei,</hi> &amp; Divi <hi>Thomae</hi> Fores, ut crura mutilata &amp; brachia eluxata in integrum reſtituerent. Reverâ Noſoco<g ref="char:EOLhyphen"/>mium! Sed Peritos apparavit <hi>Londini</hi> Clementia <hi>Samaritanos,</hi> qui vulnera colligant, &amp; molle lenitudinis oleum in<g ref="char:EOLhyphen"/>fundunt. Ecce <hi>Betheſdam</hi> apud Piſci<g ref="char:EOLhyphen"/>nam, ubi Angelus Munificentiae aquas turbat, eâdemque turbatione plurimi quocunque detinentur morbo, ſani fiunt.</p>
+            <p>Nec Miſericordiam Manichodocheîo, <hi>Bedlam</hi> ſcilicet, parciorem perſpicio. Hìc quidèm miſeriarum affatìm perſen<g ref="char:EOLhyphen"/>tire licet; ſed veſtra (Benigniſſimi) ut eos ad humanam formam reſuſcitetis, qui homines eſſe propemodùm ceſſavêre, bene<g ref="char:EOLhyphen"/>ficentia longè latéque ſeſe diffundit. Re<g ref="char:EOLhyphen"/>gale profecto Domicilium! quod ſumptibu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> veſtris nupèr conſtruxiſtis, Demir amur Et jam, ut in aliis, ità etiam in ration<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amiſsâ mentibus captis reddendâ, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> minùs emicuit liberalitas veſtra, etſi for<g ref="char:EOLunhyphen"/>taſsè
+<pb n="7" facs="tcp:37454:5"/>
+               <!-- PDF PAGE 76 -->non eadem gratia vobis referatur, ſed malè moratâ potiùs tractemini.</p>
+            <p>Procùl à Maenibus noſtris recedant Va<g ref="char:EOLhyphen"/>gabundi, qui malè juvenantur &amp; vitio<g ref="char:EOLhyphen"/>rum faece volutare ſolent; exterminen<g ref="char:EOLhyphen"/>tur aedibus &amp; vicis, qui pediculis ver<g ref="char:EOLhyphen"/>minant, vitam ſilentio tranſeuntes. Si nolint, adeſt <hi>Irenarcha,</hi> ut Curatoris Pacis ductu &amp; Lictoris Coactu, Piſtrini, quod cane pejus &amp; angue horrent, ſaevi<g ref="char:EOLhyphen"/>tiam ſentiant &amp; crudeli lacerentur ver<g ref="char:EOLhyphen"/>bere terga.</p>
+            <p>Piget profectò (Digniſſimi) ut Clemen<g ref="char:EOLhyphen"/>tia veſtra, quae ex naturâ ſuâ nullum ali<g ref="char:EOLhyphen"/>um aſpectum, niſi placidos arriſus novit, frontem rugis implicare cogeretur; ſed medicam diſciplinae ſeverae potionem, ut periti ſolent, praebetis, ut è laethifero malae crucis excidio elabantur. Sed hos ad ſalutares manus veſtras remitto. Eſtis quidèm Gnari Medici, qui medicamenta, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad quod offendit, evacuandum, &amp; ad elan<g ref="char:EOLhyphen"/>guentes vires corroborandum adminiſtrare probè ſcitis.</p>
+            <p>
+               <pb n="8" facs="tcp:37454:6"/>
+               <!-- PDF PAGE 77 -->
+Jàm verò, Quis eâ pectoris caligin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; caecitate verſatur, ut <hi>Mentem</hi> eſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Sapientiſſimam,</hi> quae mundum condidit non credat? non agnoſcat? Ecce Miſello<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; Orphanorum Turbam, qui graves o<g ref="char:EOLunhyphen"/>lim pertinacis fortunae ictus perpeſſi ſu<g ref="char:EOLunhyphen"/>mus, quibus propter parentum amiſſio<g ref="char:EOLunhyphen"/>nem, nec panis aderat, nec veſtiment<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ad aerunenoſam nuditatem tegendam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nec domicilium, cujus latebris nos cala<g ref="char:EOLunhyphen"/>mitoſos occultemus, ſuppetebat; Num verò melior nobis arriſit Deus, &amp; ma<g ref="char:EOLunhyphen"/>num porrexit, ut non ſolùm integrae con<g ref="char:EOLunhyphen"/>ſervandae, ſed etiam perditae reſtituend<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> valetudini conſulatur. Deus nobis ha<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> otia fecit.</p>
+            <p>Et vos etiam (Benigniſſimi) verè Pa<g ref="char:EOLunhyphen"/>tres colimus. In veſtro jam favore (quo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deo viſum eſt) ſecuri latitamus, qui in opiâ &amp; egeſtate perituri fuimus, nî be<g ref="char:EOLunhyphen"/>nignitas veſtra nos nutriendi curam in<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>viſſet. Eam profectò fortunae noſtr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſerae, multúmque jactatae portum &amp; perfugium experti ſumus. Felicitatem
+<pb n="9" facs="tcp:37454:6"/>
+               <!-- PDF PAGE 77 -->jàm noſtram meditamur, quibus omnia, quae ad benè beatéque vivendum perti<g ref="char:EOLhyphen"/>nent, contigerunt. Nec eſt, quòd mul<g ref="char:EOLhyphen"/>tae ambiguae curae, aut gemibundi dolores, qui in nos olìm confluxerunt, nos am<g ref="char:EOLhyphen"/>pliùs reddant ſolicitos aut crucient. U<g ref="char:EOLhyphen"/>tinàm rebus &amp; ſtudiis noſtris meliùs à nobis conſultum eſſet, ut Praeceptorum, ſub quibus militamus, laudes, &amp; indu<g ref="char:EOLhyphen"/>ſtri am commendemus. Non ſuſpicamur nos ex infimâ plebe natos, ſempèr ità futuros; veſtra enim Munificentia ſpe<g ref="char:EOLhyphen"/>rare meliora juſſit. Curâſtis, ut animi noſtri excolerentur, &amp; quibuſcunque poſt<g ref="char:EOLhyphen"/>hàc artibus exercitati ſimus, in iis ità verſemur, ut aliis longè praelucere liceat.</p>
+            <p>Nos, ut videtis, in Muſarum caſtris curâ veſtrâ &amp; auſpcio ducti ſumus.</p>
+            <p>Suppetunt &amp; nobis arma, quibus vel hoſtes provocare, vel nos ulciſci laceſſitos facilè poſſimus.</p>
+            <p>
+               <pb n="10" facs="tcp:37454:7"/>
+               <!-- PDF PAGE 78 -->
+Ecce Armamentarium nobis à di<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>niſſimo quodam Patrono nupèr fundatu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; diverſis armis ab aliis benè re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tum; Bibliothecam ſcilicet, ex quâ tam<g ref="char:EOLunhyphen"/>quam è penu ad univerſorum uſum lib<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> depromi poſſunt. Nunc <hi>Ciceronis</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nimam Spirare licet, &amp; ad altiora ſtudi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noſmetipſos adaptemus, dum alii Sphaera<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; coelorum Regiones dimenſuri ſumus.</p>
+            <p>Sed timeo (venerandi Patres &amp; Pa<g ref="char:EOLunhyphen"/>troni ſelectiſſimi) nè, dum armorum uſum &amp; vires noſtras oſtentamus, hoſtes i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> praelia nos poſcerent, &amp; rebus veſtri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hodiè Mora ſient.</p>
+            <p>Ad caſtra tandèm reverſurus ſum. Li<g ref="char:EOLhyphen"/>ceat tamen, quaeſo, quia res veſtrae di<g ref="char:EOLhyphen"/>cendi finem poſtulant, ut votivas preces provobis facerem.</p>
+            <closer>Inclareſcant undique CIVITATIS noſtrae SENATORES pientiſſimi.<lb/>
+Vivat <hi>CAROLUS</hi> REX Sere<g ref="char:EOLhyphen"/>niſſimus, atque Alii in hujus Imperii Spem geniti.<lb/>
+               <pb n="11" facs="tcp:37454:7"/>
+               <!-- PDF PAGE 78 -->
+Floreat BRITANNIA noſtra &amp; in aeternùm vigeat.<lb/>
+               <signed>Dixi, <hi>Simon Ledeatt,</hi> Orphanus.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
